@@ -1,2 +1,2 @@
 # Paddy-Yield-Predictor-
-This is an ML project that I created as part of my course in my Uni for predicting the output of Paddy Yield based on various factors
+This repository contains a machine learning project developed as part of my university coursework, focused on predicting paddy yield based on various influencing factors.
